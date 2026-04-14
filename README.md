@@ -4,9 +4,7 @@
 
 Strands Agents SDK の全機能（Multi-Agent Graph、Hooks、Plugin、Steering、Skills、State）を実践的に活用しています。
 
-以下の Qiita 記事に対応しています。
 
-- [Strands Agents Multi-Agent実践：4つのAIエージェントでインシデント対応を自動化する](https://qiita.com/miruky/items/PLACEHOLDER)
 
 ## アーキテクチャ
 
